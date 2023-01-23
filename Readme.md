@@ -23,7 +23,7 @@ This page focuses on positioning of elements and gradient over an image.
 
 ## Deployed Version Link
 
-- [Live Demo]()
+- [Live Demo](https://food-restaurant-landing-page-op.netlify.app/)
 
 ## Snapshot of Webpage
 
